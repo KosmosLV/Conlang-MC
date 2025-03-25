@@ -78,7 +78,7 @@ selectWorld.tooltip.fromNewerVersion2=o lade dette vørld kann skäpe problemen!
 selectWorld.tooltip.snapshot1=Neiterem neit o skäpe na bakup dette vørld
 selectWorld.tooltip.snapshot2=feür du lade de in dette snapshot.
 
-selectWorld.unable_to_load=Unable to load worlds
+selectWorld.unable_to_load=Kann neit lade vørld
 selectWorld.load_folder_access=Unable to read or access folder where game worlds are saved!
 
 createWorld.customize.presets=Presets
