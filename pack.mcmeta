@@ -1,0 +1,9 @@
+{ "pack" : { "pack_format" : 3, "description" : "Vihuric Language Pack" },
+"language":{
+    "vh_to":{
+        "name":"Vihürik",
+        "region":"Tørestaad",
+        "bidirectional":false
+        }
+    }
+}
