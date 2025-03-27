@@ -361,17 +361,17 @@ soundCategory.voice=Voice/Speech
 
 record.nowPlaying=Speilejner no: %s
 
-options.off=AV
-options.on=OHE
+options.off=Fram
+options.on=Burt
 options.visible=Ket
 options.hidden=Slejpet
 options.title=Müleien
 options.controls=Kontrolengen...
 options.video=Video Müleien...
 options.language=Lang...
-options.sounds=Muzykk & Sounds...
-options.sounds.title=Music & Sound Options
-options.languageWarning=Language translations may not be 100%% accurate
+options.sounds=Muzykk & Loðen...
+options.sounds.title=Music & Loðenes Müleien
+options.languageWarning=Langesoversettengen kann neit vär 100%% navämig
 options.videoTitle=Video Settings
 options.customizeTitle=Customize World Settings
 options.music=Music
